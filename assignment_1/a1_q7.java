@@ -55,7 +55,7 @@ public class a1_q7 {
         }
         System.out.println("tke max element is "+max+" the occ is:"+max_count);
         System.out.println("the min element is "+min+" the occ is:"+min_count);
-        System.out.println("first occ of  max "+f_occ);
-        System.out.println("ast occ of min "+l_occ);
+        System.out.println("first occ of  max "+(f_occ+1));
+        System.out.println("ast occ of min "+(l_occ+1));
     }
 }
