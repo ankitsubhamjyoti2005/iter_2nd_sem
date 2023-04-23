@@ -15,7 +15,7 @@ class phone{
         System.out.println("("+area_code+")"+" "+exchange+" "+number);
     }
 }
-public class q1 {
+public class j1 {
     public static void main(String[] args) {
         phone my = new phone();
         my.input(212,767,8900);
