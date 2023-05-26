@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class a1_q5 {
     public static int Sum_of_digits(int sum,int num){
-        while (num > 0 || sum <= 9)
+        while (num > 0 || sum > 9)
         {
             if (num == 0)
             {
