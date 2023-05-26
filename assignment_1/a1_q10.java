@@ -22,10 +22,10 @@ public class a1_q10 {
         double c =sumColumn(m,3);
         double d =sumColumn(m,4);
 
-        System.out.println("Sum of the elements at column 0 is "+a);
-        System.out.println("Sum of the elements at column 0 is "+b);
-        System.out.println("Sum of the elements at column 0 is "+c);
-        System.out.println("Sum of the elements at column 0 is "+d);
+        System.out.println("Sum of the elements at column 1 is "+a);
+        System.out.println("Sum of the elements at column 2 is "+b);
+        System.out.println("Sum of the elements at column 3 is "+c);
+        System.out.println("Sum of the elements at column 4 is "+d);
 
     }
 }
