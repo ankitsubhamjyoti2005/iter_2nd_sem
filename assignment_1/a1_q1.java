@@ -7,6 +7,7 @@ public class a1_q1 {
             c=c*2;
             count++;
         }
+        //count number of 2
         int g = count - 2 ;
         System.out.println(g);
     }
