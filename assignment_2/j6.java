@@ -35,7 +35,7 @@ public class j6 {
         Shape shapes1 = new Square(5);
         Shape shapes2 = new Triangle(4, 3);
         Shape shapes3 = new Circle(2.5);
-        System.out.println("Area of shape1 is : " + shapes1.getArea())
+        System.out.println("Area of shape1 is : " + shapes1.getArea());
         System.out.println("Area of shape2 is : " + shapes2.getArea());
         System.out.println("Area of shape3 is : " + shapes3.getArea());
     }
