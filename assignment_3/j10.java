@@ -9,11 +9,12 @@ public class j10 {
         System.out.println("Reversed string: " + reversed);
 
     }
+    //
     public static String reverse(String s) {
         if (s.isEmpty()) {
             return s;
         }
-
+        //recursiv statment
         return reverse(s.substring(1)) + s.charAt(0);
     }
 }
